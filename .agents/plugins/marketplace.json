@@ -1,0 +1,20 @@
+{
+  "name": "fluxbar-companion",
+  "interface": {
+    "displayName": "FluxBar Companion"
+  },
+  "plugins": [
+    {
+      "name": "fluxbar",
+      "source": {
+        "source": "local",
+        "path": "./plugins/fluxbar"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

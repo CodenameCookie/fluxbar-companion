@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Terminal",
+    "category": "Development"
+  },
+  {
+    "name": "Code",
+    "category": "Development"
+  },
+  {
+    "name": "Server",
+    "category": "Development"
+  },
+  {
+    "name": "Database",
+    "category": "Development"
+  },
+  {
+    "name": "GitBranch",
+    "category": "Development"
+  },
+  {
+    "name": "Cpu",
+    "category": "Development"
+  },
+  {
+    "name": "Container",
+    "category": "Development"
+  },
+  {
+    "name": "Bug",
+    "category": "Development"
+  },
+  {
+    "name": "Wrench",
+    "category": "Development"
+  },
+  {
+    "name": "Web",
+    "category": "Web and connections"
+  },
+  {
+    "name": "Link",
+    "category": "Web and connections"
+  },
+  {
+    "name": "Wifi",
+    "category": "Web and connections"
+  },
+  {
+    "name": "Cloud",
+    "category": "Web and connections"
+  },
+  {
+    "name": "Search",
+    "category": "Web and connections"
+  },
+  {
+    "name": "Mail",
+    "category": "Web and connections"
+  },
+  {
+    "name": "Shield",
+    "category": "Web and connections"
+  },
+  {
+    "name": "Lock",
+    "category": "Web and connections"
+  },
+  {
+    "name": "Folder",
+    "category": "Files and knowledge"
+  },
+  {
+    "name": "File",
+    "category": "Files and knowledge"
+  },
+  {
+    "name": "FileCode",
+    "category": "Files and knowledge"
+  },
+  {
+    "name": "BookOpen",
+    "category": "Files and knowledge"
+  },
+  {
+    "name": "Clipboard",
+    "category": "Files and knowledge"
+  },
+  {
+    "name": "Download",
+    "category": "Files and knowledge"
+  },
+  {
+    "name": "Upload",
+    "category": "Files and knowledge"
+  },
+  {
+    "name": "AppWindow",
+    "category": "Apps and media"
+  },
+  {
+    "name": "Monitor",
+    "category": "Apps and media"
+  },
+  {
+    "name": "Laptop",
+    "category": "Apps and media"
+  },
+  {
+    "name": "Smartphone",
+    "category": "Apps and media"
+  },
+  {
+    "name": "Audio",
+    "category": "Apps and media"
+  },
+  {
+    "name": "Camera",
+    "category": "Apps and media"
+  },
+  {
+    "name": "Star",
+    "category": "Utilities"
+  },
+  {
+    "name": "Settings",
+    "category": "Utilities"
+  },
+  {
+    "name": "Bell",
+    "category": "Utilities"
+  },
+  {
+    "name": "Clock",
+    "category": "Utilities"
+  },
+  {
+    "name": "Calendar",
+    "category": "Utilities"
+  },
+  {
+    "name": "Zap",
+    "category": "Utilities"
+  },
+  {
+    "name": "Power",
+    "category": "Utilities"
+  },
+  {
+    "name": "Play",
+    "category": "Utilities"
+  },
+  {
+    "name": "Activity",
+    "category": "Utilities"
+  },
+  {
+    "name": "Heart",
+    "category": "Utilities"
+  }
+]

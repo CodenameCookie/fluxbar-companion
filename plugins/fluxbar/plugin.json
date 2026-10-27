@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "fluxbar",
+  "version": "0.8.1",
+  "description": "Connect Codex projects to your local FluxBar: suggest buttons for your approval, report agent activity and send LED notifications.",
+  "extensions": {
+    "com.openai": {
+      "requires_local_executor": true,
+      "interface": {
+        "displayName": "FluxBar Companion",
+        "shortDescription": "Project buttons and agent activity on your desktop",
+        "brandColor": "#69F78B",
+        "defaultPrompt": ["Register this project with FluxBar and suggest a button for my review"]
+      }
+    }
+  }
+}
